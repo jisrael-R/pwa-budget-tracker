@@ -3,7 +3,8 @@
 ## About
 
 this project main purpose is to create the enviroment when your device such phone or laptop is offline your able to store info when your device back online.
-##Technolgies
+
+## Technolgies
 
 - Technologies used in this project:
 - mongoDB Atlas
@@ -12,7 +13,7 @@ this project main purpose is to create the enviroment when your device such phon
 - Node
 - Javascript
 
-##Project
+## Project
 
 [Budget Tracker App](https://powerful-castle-82916.herokuapp.com/)
 
